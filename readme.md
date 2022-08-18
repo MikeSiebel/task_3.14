@@ -7,8 +7,9 @@ LICENSE: [MIT](license.md)
 ---
 
 ### Содержание:
-1. Что-то
-2. [git add](./add.md)
+1. [Краткое введение и терминология](./introduction.md)
+2. [Установка Git](./installation_git.md)
+3. [git add](./add.md)
 
 ---
 
