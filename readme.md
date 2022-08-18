@@ -17,7 +17,7 @@ LICENSE: [MIT](license.md)
    4. [git commit](./commit.md) - фиксации изменений
    5. [git clone](./clone.md) - создание копии репозитория
    6. [git push](./push.md) - отправка изменений в репозиторий
-   
+5. [Работа с удалённым репозиторием](./remote_repositories.md) 
 
 ---
 
