@@ -16,6 +16,7 @@ LICENSE: [MIT](license.md)
    3. [git init](./init.md) - создаёт пустой репозиторий
    4. [git commit](./commit.md) - фиксации изменений
    5. [git clone](./clone.md) - создание копии репозитория
+   6. [git push](./push.md) - отправка изменений в репозиторий
    
 
 ---
