@@ -12,7 +12,8 @@ LICENSE: [MIT](license.md)
 3. [Создание репозитория на GitHub](./repository_gitHub.md)
 4. Базовые операции
    1. [git add](./add.md) - добавляет файл в индекс
-   2. [git config](./config.md) - настройка параметров  Git
+   2. [git config](./config.md) - настройка параметров  GiT
+   3. [git init](./init.md) - создаёт пустой репозиторий
    
 
 ---
