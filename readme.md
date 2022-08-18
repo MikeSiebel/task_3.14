@@ -15,6 +15,7 @@ LICENSE: [MIT](license.md)
    2. [git config](./config.md) - настройка параметров  GiT
    3. [git init](./init.md) - создаёт пустой репозиторий
    4. [git commit](./commit.md) - фиксации изменений
+   5. [git clone](./clone.md) - созданиt копии репозитория
    
 
 ---
