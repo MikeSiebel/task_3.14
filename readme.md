@@ -14,6 +14,7 @@ LICENSE: [MIT](license.md)
    1. [git add](./add.md) - добавляет файл в индекс
    2. [git config](./config.md) - настройка параметров  GiT
    3. [git init](./init.md) - создаёт пустой репозиторий
+   4. [git commit](./commit.md) - фиксации изменений
    
 
 ---
